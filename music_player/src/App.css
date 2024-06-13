@@ -1,0 +1,7 @@
+body{
+    margin: 1%;
+    background-color: black;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+
